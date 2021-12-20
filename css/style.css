@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container_veterinary_cabecera{
+    padding: 0;
+    margin:0;
+    display: flex;
+}
+
+#header_veterinary{
+    flex-direction: row;
+}
+
+#navegation_menu #menu_nav ul{
+    flex-direction: row;
+}
