@@ -15,5 +15,9 @@ body{
 }
 
 #navegation_menu #menu_nav ul{
-    flex-direction: row;
+    align-items: center;
+}
+
+#title_verterinary{
+    width: 100%;
 }
